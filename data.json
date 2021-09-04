@@ -7,7 +7,7 @@
             "technologies":["HTML","JavaScript"],
             "live_link":"https://github.com/MosT3mR/a_random_quote_generator-v1",
             "github_link":"https://github.com/MosT3mR/a_random_quote_generator-v1",
-            "image_urls":["/static/images/p1-1.jpg","/static/images/p1-2.jpg"]
+            "image_urls":["/static/images/p1-1.JPG","/static/images/p1-2.JPG"]
         },{
             "id":2,
             "project_name":"Data Pagination and Filtering",
@@ -15,7 +15,7 @@
             "technologies":["HTML","JavaScript"],
             "live_link":"https://github.com/MosT3mR/List-Pagination-and-Filtering---project",
             "github_link":"https://github.com/MosT3mR/List-Pagination-and-Filtering---project",
-            "image_urls":["/static/images/p2-1.jpg","/static/images/p2-2.jpg"]
+            "image_urls":["/static/images/p2-1.JPG","/static/images/p2-2.JPG"]
         },{
             "id":3,
             "project_name":"Interactive Form",
@@ -23,7 +23,7 @@
             "technologies":["HTML","JavaScript"],
             "live_link":"https://github.com/MosT3mR/interactive-form-p3",
             "github_link":"https://github.com/MosT3mR/interactive-form-p3",
-            "image_urls":["/static/images/p3-1.jpg","/static/images/p3-2.jpg"]
+            "image_urls":["/static/images/p3-1.JPG","/static/images/p3-2.JPG"]
         },{
             "id":4,
             "project_name":"OOP Game Show App",
@@ -31,7 +31,7 @@
             "technologies":["HTML","JavaScript"],
             "live_link":"https://github.com/MosT3mR/oop_game-v2",
             "github_link":"https://github.com/MosT3mR/oop_game-v2",
-            "image_urls":["/static/images/p4-1.jpg","/static/images/p4-2.jpg"]
+            "image_urls":["/static/images/p4-1.JPG","/static/images/p4-2.JPG"]
         },{
             "id":5,
             "project_name":"Public API Requests",
@@ -39,7 +39,7 @@
             "technologies":["HTML","JavaScript"],
             "live_link":"https://github.com/MosT3mR/public_api_request",
             "github_link":"https://github.com/MosT3mR/public_api_request",
-            "image_urls":["/static/images/p5-1.jpg","/static/images/p5-2.jpg"]
+            "image_urls":["/static/images/p5-1.JPG","/static/images/p5-2.JPG"]
         }
     ]
 }
