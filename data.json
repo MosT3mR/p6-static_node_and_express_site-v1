@@ -3,41 +3,41 @@
         {
             "id":1,
             "project_name":"A random quote generator",
-            "description":"A random quote generator",
-            "technologies":["HTML","JavaScript"],
-            "live_link":"https://github.com/MosT3mR/a_random_quote_generator-v1",
+            "description":"Displays quotations on a page, and can be controlled by the user. It's a lot of fun!",
+            "technologies":["HTML","CSS","JavaScript"],
+            "live_link":"https://most3mr.github.io/a_random_quote_generator-v1/",
             "github_link":"https://github.com/MosT3mR/a_random_quote_generator-v1",
             "image_urls":["/static/images/p1-1.JPG","/static/images/p1-2.JPG"]
         },{
             "id":2,
             "project_name":"Data Pagination and Filtering",
-            "description":"Data Pagination and Filtering",
+            "description":"web development technique known as “pagination” to enhance the usability of a web page.",
             "technologies":["HTML","JavaScript"],
-            "live_link":"https://github.com/MosT3mR/List-Pagination-and-Filtering---project",
+            "live_link":"https://most3mr.github.io/List-Pagination-and-Filtering---project/",
             "github_link":"https://github.com/MosT3mR/List-Pagination-and-Filtering---project",
             "image_urls":["/static/images/p2-1.JPG","/static/images/p2-2.JPG"]
         },{
             "id":3,
             "project_name":"Interactive Form",
-            "description":"Interactive Form",
+            "description":"Using JavaScript to enhance an interactive registration form for a fictional Full Stack conference.",
             "technologies":["HTML","JavaScript"],
-            "live_link":"https://github.com/MosT3mR/interactive-form-p3",
+            "live_link":"https://most3mr.github.io/interactive-form-p3/",
             "github_link":"https://github.com/MosT3mR/interactive-form-p3",
             "image_urls":["/static/images/p3-1.JPG","/static/images/p3-2.JPG"]
         },{
             "id":4,
             "project_name":"OOP Game Show App",
-            "description":"OOP Game Show App",
-            "technologies":["HTML","JavaScript"],
-            "live_link":"https://github.com/MosT3mR/oop_game-v2",
+            "description":"browser-based, word guessing game: 'Phrase Hunter.'",
+            "technologies":["HTML","JavaScript","OOP"],
+            "live_link":"https://most3mr.github.io/oop_game-v2/",
             "github_link":"https://github.com/MosT3mR/oop_game-v2",
             "image_urls":["/static/images/p4-1.JPG","/static/images/p4-2.JPG"]
         },{
             "id":5,
             "project_name":"Public API Requests",
-            "description":"Public API Requests",
-            "technologies":["HTML","JavaScript"],
-            "live_link":"https://github.com/MosT3mR/public_api_request",
+            "description":"App for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world.",
+            "technologies":["HTML","JavaScript","APIs"],
+            "live_link":"https://most3mr.github.io/public_api_request/",
             "github_link":"https://github.com/MosT3mR/public_api_request",
             "image_urls":["/static/images/p5-1.JPG","/static/images/p5-2.JPG"]
         }

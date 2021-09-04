@@ -7,7 +7,6 @@ const express = require('express')
 const app = express()
 
 const path = require('path')
-const {projects} = require('./data.json')
 
 // setting up the middleware 
 app.set('view engine', 'pug') // for the pug engine
